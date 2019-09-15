@@ -1,0 +1,12 @@
+authtoken: 'sua chave de acesso'
+
+tunnels:
+  http_apache:
+    proto: http
+    addr: 80
+  tcp_ssh:
+    proto: tcp
+    addr: 22
+  tcp_demo:
+    proto: tcp
+    addr: 8000
