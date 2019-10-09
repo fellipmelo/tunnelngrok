@@ -1,7 +1,9 @@
+#!/bin/python
 import os 
 import sys
 import time
 import subprocess
+from subprocess import call
 ngrok = """
 authtoken: 'chave'
 
@@ -43,6 +45,7 @@ print(RED+"""
 print('')
 print('')
 auth = raw_input(' Sua Chave do NGROK: ')
+print('')
 ngrok = ngrok.replace('chave', auth)
 arq = open('/root/.ngrok2/ngrok.yml', 'w')
 arq.write(ngrok)
@@ -58,8 +61,9 @@ arq = open('/root/.ngrok2/ngrok.yml', 'w')
 arq.write(ngrok)
 arq.close()
 
-subprocess.run('wget ' SHELL=False)
-subprocess.run('cp /bin', SHELL=False)
+print('')
+print('')
+print(GREEN+'Obrigado :)')
 
 
 
