@@ -41,6 +41,7 @@ print(RED+"""
 						Criado por SedSec
 					
 						https://instagram.com/sedsec
+						https://youtube.com/sedsec
 """)
 print('')
 print('')
