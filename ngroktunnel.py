@@ -44,6 +44,7 @@ print(RED+"""
 """)
 print('')
 print('')
+time.sleep(3)
 auth = raw_input(' Sua Chave do NGROK: ')
 print('')
 art = ('ngrok')
