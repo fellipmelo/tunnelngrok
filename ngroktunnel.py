@@ -66,15 +66,11 @@ ngrok = ngrok.replace('8000', tcp)
 arq = open('/root/.ngrok2/ngrok.yml', 'w')
 arq.write(ngrok)
 arq.close()
-
 print('')
 print('')
 print(GREEN+'Obrigado :)')
-
 time.sleep(3)
-
 execu = os.system(art+' start '+title)
-
 os.system(execu)
 
 
