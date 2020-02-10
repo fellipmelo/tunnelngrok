@@ -4,6 +4,9 @@ import sys
 import time
 import subprocess
 from subprocess import call
+#
+#	nao esquece de me seguir manooo
+#
 ngrok = """
 authtoken: 'chave'
 
@@ -42,7 +45,7 @@ print(GREEN + """
 print(RED+"""
 						Criado por SedSec
 					
-						https://instagram.com/sedsec
+						https://instagram.com/fellipmg
 						https://youtube.com/sedsec
 """)
 print('')
