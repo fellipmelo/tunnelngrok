@@ -6,6 +6,27 @@ Conexão externa sem necessidade de abrir portas no roteador
 Multiple tunnels in ngrok TCP and HTTP protocols both at the same time External connection without opening ports on router
 
 # Atualizado | Updated
-v.1.1
+v.2.0
 # Como usar | How to use
- https://youtu.be/Te5uGjdA_-o
+Como instalar:
+wget https://github.com/fellipmelo/tunnelngrok.git
+cd tunnelngrok 
+chmod 770 *
+./tunnelngrok.py
+
+para executar novamente basta digitar no terminal 'tn.py'
+
+# Desinstalar
+
+cd /etc/tunnelngrok/
+./uninstall.sh
+
+
+Testado em:
+Kali Linux 2020
+
+https://youtu.be/Te5uGjdA_-o
+
+# Bugs e agradecimentos
+instagram: @fellipmg
+twitter: @SecFellip
