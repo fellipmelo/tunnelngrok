@@ -18,7 +18,7 @@ para executar novamente basta digitar no terminal 'tn.py'
 
 # Desinstalar
 
-cd /etc/tunnelngrok/
+cd /etc/tunnelngrok/ \n
 ./uninstall.sh
 
 
@@ -27,6 +27,6 @@ Kali Linux 2020
 
 https://youtu.be/Te5uGjdA_-o
 
-# Bugs e agradecimentos
+# Reportar Bugs e Agradecimentos
 instagram: @fellipmg
 twitter: @SecFellip
