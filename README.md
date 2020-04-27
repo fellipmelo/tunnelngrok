@@ -18,7 +18,7 @@ para executar novamente basta digitar no terminal 'tn.py'
 
 # Desinstalar
 
-cd /etc/tunnelngrok/ \n
+cd /etc/tunnelngrok/ <br/>
 ./uninstall.sh
 
 
