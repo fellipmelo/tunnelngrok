@@ -14,7 +14,7 @@ cd tunnelngrok <br/>
 chmod 770 * <br/>
 ./tunnelngrok.py <br/>
 
-para executar novamente basta digitar no terminal 'tn.py'
+Atalho para executar o ngrok após a instalaap 'tn.py'
 
 # Desinstalar
 
