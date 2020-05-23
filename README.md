@@ -6,7 +6,7 @@ Conexão externa sem necessidade de abrir portas no roteador
 Multiple tunnels in ngrok TCP and HTTP protocols both at the same time External connection without opening ports on router
 
 # Atualizado | Updated
-v.2.0
+v.2.1
 # Como usar | How to use
 Como instalar: <br/>
 git clone https://github.com/fellipmelo/tunnelngrok.git <br/>
