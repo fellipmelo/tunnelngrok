@@ -9,10 +9,11 @@ Multiple tunnels in ngrok TCP and HTTP protocols both at the same time External 
 v.2.0
 # Como usar | How to use
 Como instalar: <br/>
-wget https://github.com/fellipmelo/tunnelngrok.git <br/>
+git clone https://github.com/fellipmelo/tunnelngrok.git <br/>
 cd tunnelngrok <br/>
 chmod 770 * <br/>
 ./tunnelngrok.py <br/>
+ou python3 tunnelngrok.py <br/>
 
 Atalho para executar o ngrok após a instalação <br/>
 
