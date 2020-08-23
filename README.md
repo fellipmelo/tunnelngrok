@@ -28,7 +28,7 @@ cd /etc/tunnelngrok/ <br/>
 Testado em: <br/>
 Kali Linux 2020
 
-https://youtu.be/Te5uGjdA_-o
+https://youtu.be/oF7ZKTcE1pU
 
 # Reportar Bugs e Agradecimentos
 instagram: @fellipmg <br/>
